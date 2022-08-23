@@ -1,0 +1,1 @@
+alert ( Infinity ); // 무한대

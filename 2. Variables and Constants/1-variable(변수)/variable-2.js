@@ -1,0 +1,3 @@
+let message = 'Hello!' // 변수를 정의하고 값을 할당합니다
+
+alert(message); // Hello!
